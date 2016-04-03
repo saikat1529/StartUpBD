@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">StratUpBD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <array name="title">
+        <item>We expect BCB to fight our cause</item>
+        <item>Why NASA still flies an Old British bomber design</item>
+        <item>It is going to be tough</item>
+        <item>ICC calls meeting on Taskin issue</item>
+        <item>Barack Obama in Cuba at start of historic visit</item>
+        <item>BIT MAKERS celebration</item>
+    </array>
+
+    <array name="comment">
+       <item>2</item>
+       <item>5</item>
+       <item>6</item>
+       <item>65</item>
+       <item>18</item>
+       <item>12</item>
+    </array>
+
+    <array name="author">
+       <item>Ibrahim Tausif</item>
+       <item>Ibrahim San</item>
+       <item>San Tausif</item>
+       <item>San Sab</item>
+       <item>Sn Tausif</item>
+       <item>Sn Dell</item>
+    </array>
+
+    <array name="time">
+       <item>1 hours ago</item>
+       <item>7 hours ago</item>
+       <item>23 hours ago</item>
+       <item>1 day ago</item>
+       <item>13 days ago</item>
+       <item>3 months ago</item>
+    </array>
+</resources>
